@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+matplotlib = "*"
+numpy = "*"
+opencv-python = "*"
+vidgear = "*"
+torch = "*"
+torchvision = "*"
+tqdm = "*"
+tensorboard = "*"
+Pillow = "*"
+tensorboardX = "*"
+tensorflow = "*"
+terminaltables = "*"
+flask = "*"
+gunicorn = "*"
+
+[requires]
+python_version = "3.7"
