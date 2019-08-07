@@ -3,3 +3,8 @@
 # Image files
 *.jpg
 *.png
+
+# Weight files
+*.conv.74
+*.weights
+*.pth
